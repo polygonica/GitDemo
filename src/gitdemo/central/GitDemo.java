@@ -15,4 +15,3 @@ public class GitDemo {
 
 // this is my push
 // this is push #2
-// a comment
